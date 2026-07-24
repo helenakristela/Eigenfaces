@@ -84,4 +84,4 @@ threshold) dihitung ulang dari awal secara otomatis di memori, tanpa perlu resta
 
 ## Link Demo Video
 
-(menyusul)
+`https://drive.google.com/file/d/1budbKJcWFqs0DAwvq1NbddPo1D1P51tQ/view?usp=sharing`
